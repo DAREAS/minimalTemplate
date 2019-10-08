@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <UserSecretsId>0a3fb7c3-cccb-4e2a-a046-7ddae959ce99</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.4.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\minimalTemplate.Core\minimalTemplate.Core.csproj" />
+    <ProjectReference Include="..\minimalTemplate.DataContracts\minimalTemplate.DataContracts.csproj" />
+  </ItemGroup>
+
+</Project>

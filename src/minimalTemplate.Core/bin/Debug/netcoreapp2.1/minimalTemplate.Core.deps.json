@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "minimalTemplate.Core/1.0.0": {
+        "runtime": {
+          "minimalTemplate.Core.dll": {}
+        },
+        "resources": {
+          "en-US/minimalTemplate.Core.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "minimalTemplate.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\bin\Debug\netcoreapp2.1\minimalTemplate.Core.deps.json
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\bin\Debug\netcoreapp2.1\minimalTemplate.Core.dll
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\bin\Debug\netcoreapp2.1\minimalTemplate.Core.pdb
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\obj\Debug\netcoreapp2.1\minimalTemplate.Core.csprojAssemblyReference.cache
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\obj\Debug\netcoreapp2.1\minimalTemplate.Core.csproj.CoreCompileInputs.cache
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\obj\Debug\netcoreapp2.1\minimalTemplate.Core.AssemblyInfoInputs.cache
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\obj\Debug\netcoreapp2.1\minimalTemplate.Core.AssemblyInfo.cs
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\obj\Debug\netcoreapp2.1\minimalTemplate.Core.dll
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\obj\Debug\netcoreapp2.1\minimalTemplate.Core.pdb
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\bin\Debug\netcoreapp2.1\en-US\minimalTemplate.Core.resources.dll
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\obj\Debug\netcoreapp2.1\minimalTemplate.Core.Resources.Resource.resources
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\obj\Debug\netcoreapp2.1\minimalTemplate.Core.Resources.Resourcept-BR.resources
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\obj\Debug\netcoreapp2.1\minimalTemplate.Core.Resources.Resource.en-US.resources
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\obj\Debug\netcoreapp2.1\minimalTemplate.Core.csproj.GenerateResource.cache
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.Core\obj\Debug\netcoreapp2.1\en-US\minimalTemplate.Core.resources.dll

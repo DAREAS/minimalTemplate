@@ -1,0 +1,15 @@
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\bin\Debug\netcoreapp2.1\minimalTemplate.BDD.deps.json
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\bin\Debug\netcoreapp2.1\minimalTemplate.BDD.runtimeconfig.json
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\bin\Debug\netcoreapp2.1\minimalTemplate.BDD.runtimeconfig.dev.json
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\bin\Debug\netcoreapp2.1\minimalTemplate.BDD.dll
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\obj\Debug\netcoreapp2.1\minimalTemplate.BDD.csproj.CoreCompileInputs.cache
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\obj\Debug\netcoreapp2.1\minimalTemplate.BDD.AssemblyInfoInputs.cache
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\obj\Debug\netcoreapp2.1\minimalTemplate.BDD.AssemblyInfo.cs
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\bin\Debug\netcoreapp2.1\minimalTemplate.BDD.pdb
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\obj\Debug\netcoreapp2.1\minimalTemplate.BDD.dll
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\obj\Debug\netcoreapp2.1\minimalTemplate.BDD.pdb
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.BDD\obj\Debug\netcoreapp2.1\minimalTemplate.BDD.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.DataContracts\bin\Debug\netcoreapp2.1\minimalTemplate.DataContracts.deps.json
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.DataContracts\bin\Debug\netcoreapp2.1\minimalTemplate.DataContracts.dll
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.DataContracts\bin\Debug\netcoreapp2.1\minimalTemplate.DataContracts.pdb
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.DataContracts\obj\Debug\netcoreapp2.1\minimalTemplate.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.DataContracts\obj\Debug\netcoreapp2.1\minimalTemplate.DataContracts.AssemblyInfoInputs.cache
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.DataContracts\obj\Debug\netcoreapp2.1\minimalTemplate.DataContracts.AssemblyInfo.cs
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.DataContracts\obj\Debug\netcoreapp2.1\minimalTemplate.DataContracts.dll
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.DataContracts\obj\Debug\netcoreapp2.1\minimalTemplate.DataContracts.pdb
+C:\Users\Meta\source\repos\minimalTemplate\src\minimalTemplate.DataContracts\obj\Debug\netcoreapp2.1\minimalTemplate.DataContracts.csprojAssemblyReference.cache

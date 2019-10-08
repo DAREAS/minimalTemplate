@@ -1,0 +1,14 @@
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\bin\Debug\netcoreapp2.1\minimalTemplate.Tests.deps.json
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\bin\Debug\netcoreapp2.1\minimalTemplate.Tests.runtimeconfig.json
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\bin\Debug\netcoreapp2.1\minimalTemplate.Tests.runtimeconfig.dev.json
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\bin\Debug\netcoreapp2.1\minimalTemplate.Tests.dll
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\bin\Debug\netcoreapp2.1\minimalTemplate.Tests.pdb
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\obj\Debug\netcoreapp2.1\minimalTemplate.Tests.csprojAssemblyReference.cache
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\obj\Debug\netcoreapp2.1\minimalTemplate.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\obj\Debug\netcoreapp2.1\minimalTemplate.Tests.AssemblyInfoInputs.cache
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\obj\Debug\netcoreapp2.1\minimalTemplate.Tests.AssemblyInfo.cs
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\obj\Debug\netcoreapp2.1\minimalTemplate.Tests.dll
+C:\Users\Meta\source\repos\minimalTemplate\tests\minimalTemplate.Tests\obj\Debug\netcoreapp2.1\minimalTemplate.Tests.pdb
