@@ -259,3 +259,16 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+src/minimalTemplate.Core/obj/Debug/netcoreapp2.1/minimalTemplate.Core.assets.cache
+
+src/minimalTemplate.DataContracts/obj/Debug/netcoreapp2.1/minimalTemplate.DataContracts.assets.cache
+
+src/minimalTemplate/obj/Debug/netcoreapp2.1/minimalTemplate.assets.cache
+
+src/minimalTemplate/obj/Debug/netcoreapp2.1/minimalTemplate.csproj.CoreCompileInputs.cache
+
+src/minimalTemplate/obj/Debug/netcoreapp2.1/minimalTemplate.csprojAssemblyReference.cache
+
+tests/minimalTemplate.BDD/obj/Debug/netcoreapp2.1/minimalTemplate.BDD.assets.cache
+
+tests/minimalTemplate.Tests/obj/Debug/netcoreapp2.1/minimalTemplate.Tests.assets.cache
